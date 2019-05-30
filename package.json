@@ -1,0 +1,15 @@
+{
+  "name": "shiva-learn",
+  "version": "1.0.0",
+  "description": "a smaple app for shiva",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "test"
+  },
+  "author": "shiva",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
